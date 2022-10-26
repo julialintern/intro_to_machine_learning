@@ -28,3 +28,5 @@ pip install -r requirements.txt
 
 
 #### 2) make sure to move the 'DS_pokemon_trainer_application_data.csv' to the local directory
+```jupyter notebook```
+
